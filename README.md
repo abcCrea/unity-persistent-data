@@ -1,4 +1,3 @@
-<img width="1442" height="877" alt="abcCrea_Unity_PersistentData_Sample" src="https://github.com/user-attachments/assets/90c4cd05-9e55-4667-954f-5204070b700e" /><img width="210" height="210" alt="UI_Emarald_Reward_Icon" src="https://github.com/user-attachments/assets/880d3724-a089-4f7c-a31d-b5c35479030a" /># unity-persistent-data
 A lightweight local persistence module for Unity using PlayerPrefs for primitive values and JSON files for classes and dictionaries with a playable top-down 2D sample demonstrating persistent currencies collected from treasure chests.
 
 # Unity Persistent Data
