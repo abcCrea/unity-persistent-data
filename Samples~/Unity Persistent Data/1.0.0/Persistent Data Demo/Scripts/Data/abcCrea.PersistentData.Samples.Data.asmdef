@@ -1,0 +1,14 @@
+{
+  "name": "abcCrea.PersistentData.Samples.Data",
+  "rootNamespace": "abcCrea.PersistentData.Samples.Data",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

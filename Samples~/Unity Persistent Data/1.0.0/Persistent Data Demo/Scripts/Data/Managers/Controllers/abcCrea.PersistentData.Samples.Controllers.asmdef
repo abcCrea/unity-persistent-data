@@ -1,0 +1,21 @@
+{
+  "name": "abcCrea.PersistentData.Samples.Controllers",
+  "rootNamespace": "abcCrea.PersistentData.Samples.Controllers",
+  "references": [
+    "abcCrea.PersistentData",
+    "abcCrea.PersistentData.Samples.Data",
+    "abcCrea.PersistentData.Samples.Input",
+    "abcCrea.PersistentData.Samples.Managers",
+    "Unity.TextMeshPro",
+    "UnityEngine.UI"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+{
+    "name": "abcCrea.PersistentData.Samples.Treasure",
+    "rootNamespace": "abcCrea.PersistentData.Samples.Treasure",
+    "references": [
+        "abcCrea.PersistentData.Samples.Data",
+        "abcCrea.PersistentData.Samples.Controllers"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

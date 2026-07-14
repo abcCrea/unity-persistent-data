@@ -1,0 +1,16 @@
+{
+  "name": "abcCrea.PersistentData.Samples.Input",
+  "rootNamespace": "abcCrea.PersistentData.Samples.Input",
+  "references": [
+    "Unity.InputSystem"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
