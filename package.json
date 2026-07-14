@@ -20,9 +20,9 @@
   ],
   "samples": [
     {
-      "displayName": "Persistent Data Demo",
-      "description": "A simple manually wired Canvas demo with editable TextMeshPro fields and CRUD button handlers.",
-      "path": "Samples~/Persistent Data Demo"
+      "displayName": "Treasure Collection Sample",
+      "description": "A playable top-down 2D sample demonstrating persistent currencies collected from treasure chests.",
+      "path": "Samples~/Treasure Collection"
     }
   ]
 }
