@@ -1,6 +1,6 @@
 {
   "name": "com.abccrea.persistent-data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Unity Persistent Data",
   "description": "A lightweight Unity persistence module using PlayerPrefs for primitive values and JSON files for classes and dictionaries.",
   "unity": "2022.3",

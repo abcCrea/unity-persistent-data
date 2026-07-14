@@ -56,7 +56,7 @@ In Unity:
 4. Enter:
 
 ```text
-https://github.com/abcCrea/unity-persistent-data.git#1.0.0
+https://github.com/abcCrea/unity-persistent-data.git#1.0.1
 ```
 
 To install the current development version from the default branch, use:
@@ -197,7 +197,7 @@ The package includes a small top-down 2D scene that demonstrates persistence thr
 Unity imports the sample into a folder similar to:
 
 ```text
-Assets/Samples/abcCrea Persistent Data/1.0.0/Treasure Collection Sample/
+Assets/Samples/abcCrea Persistent Data/1.0.1/Treasure Collection Sample/
 ```
 
 ## Public API
