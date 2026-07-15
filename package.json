@@ -22,7 +22,7 @@
     {
       "displayName": "Treasure Collection Sample",
       "description": "A playable top-down 2D sample demonstrating persistent currencies collected from treasure chests.",
-      "path": "Samples~/Treasure Collection"
+      "path": "Samples~/Treasure Collection Sample"
     }
   ]
 }
